@@ -11,7 +11,7 @@ Ezeket a képzés részletesen bemutatja, legyen szó akár teljesen új nyelvi 
 egy teljesen új API-ról, a JVM belső működésének változásáról, új szemétgyűjtő 
 mechanizmusokról, vagy csak akár egy új hasznos metódusról.
 
-Minden témához rövid laborfeladat tartozik, mely akár egy valós alkalmazásban is megállná a helyét.
+Több témához rövid gyakorlat is tartozik.
 
 ## Szükséges előképzettség
 
@@ -30,11 +30,20 @@ nyelvtudás szükséges.
 
 * Java 12 - 17 nyelvi újdonságai
 * Java 12 - 17 API változások
+* `Collectors.teeing()`
+* `DocumentBuilderFactory`
 * Switch expressions
 * `@Serial` annotáció
 * CDS Archives
 * Helpful `NullPointerException`
 * Text Blocks
-* ZGC, Shenandoah szemétgyűjtők
+* ZGC, Shenandoah szemétgyűjtő mechanizmusok
 * Pattern Matching for instanceof
+* Sealed classes
+* Random generators
 * Records
+* `InstantSource`
+* Deserialization filters
+* Project Loom
+* Project Panama
+* Project Valhalla

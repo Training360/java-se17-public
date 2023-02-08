@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employee xmlns="https://training.com/employees">
+    <name>John Doe</name>
+    <year-of-birth>1980</year-of-birth>
+</employee>
